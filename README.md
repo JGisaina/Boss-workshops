@@ -8,9 +8,9 @@ _Welcome to BOSS Workshops which is part of the series of events in the **"Empow
 
 _The workshop runs from November 1st - November 5th 2021. All times are in GMT +3/UTC +3._
 
-| **Day** | **Morning (0900-1300hrs)** | **Afternoon (1400-1630hrs)** |
+| **Day** | **Morning (0900-1300hrs)** | **Duration** | **Afternoon (1400-1630hrs)** |
 |:-------:|:---------------------------|:-----------------------------:|
-| Monday | [Intro to sequencing technologies]() - **_Martha Luka_** <br />[Data file formats - Talk]() - **_Shaun Aron_** <br /> [Introduction to Unix]() - **_Sumir Panji_** | Assignments on data file formats and Introduction to Unix |
+| Monday | [Intro to sequencing technologies]() - **_Martha Luka_** <br />[Data file formats - Talk]() - **_Shaun Aron_** <br /> [Introduction to Unix]() - **_Sumir Panji_** | 9:00 - 10:00 am EAT <br /> 10:15 - 11: 00 am EAT <br /> 11: 15 - 12:30 am EAT | Assignments on data file formats and Introduction to Unix |
 | Tuesday | [Advanced Linux, Awk and Sed]() - **_Sumir Panji_** | Assignments - Unix, Sed and Awk |
 | Wednesday | [Quality control and assessment]() - **_Shaun Aron_** <br /> Practical session - QC | Assignments - QC |
 | Thursday | [Sequence alignment]() - **_Sonal Henson_** <br /> [Sequence assembly]() - **_James Otieno_** | Assignments - Sequence alignment and assembly |
