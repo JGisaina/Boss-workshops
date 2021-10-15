@@ -8,13 +8,13 @@ _Welcome to BOSS Workshops which is part of the series of events in the **"Empow
 
 _The workshop runs from November 1st - November 5th 2021. All times are in GMT +3/UTC +3._
 
-| **Day** | **Morning (0900-1300hrs)** | **Duration** | **Afternoon (1400-1630hrs)** |
-|:-------:|:---------------------------|:-----------------------------:|
-| Monday | [Intro to sequencing technologies]() - **_Martha Luka_** <br />[Data file formats - Talk]() - **_Shaun Aron_** <br /> [Introduction to Unix]() - **_Sumir Panji_** | 9:00 - 10:00 am EAT <br /> 10:15 - 11: 00 am EAT <br /> 11: 15 - 12:30 am EAT | Assignments on data file formats and Introduction to Unix |
-| Tuesday | [Advanced Linux, Awk and Sed]() - **_Sumir Panji_** | Assignments - Unix, Sed and Awk |
-| Wednesday | [Quality control and assessment]() - **_Shaun Aron_** <br /> Practical session - QC | Assignments - QC |
-| Thursday | [Sequence alignment]() - **_Sonal Henson_** <br /> [Sequence assembly]() - **_James Otieno_** | Assignments - Sequence alignment and assembly |
-| Friday | [Introduction to Git/GitHub]() - **_Caleb Kibet_** <br /> [Introduction to Galaxy]() - **_Peter van Heusden_** | Assignments - Introduction to Galaxy - Genomics |
+| **Day** | **Morning Session** | **Morining Session Time** | **Afternoon Session (1400-1630hrs)** |
+|:-------:|:---------------------------|:-----------------------------:|:-----------------------------:|
+| Monday | 1.[Intro to sequencing technologies]() - **_Martha Luka_** <br />2.[Data file formats - Talk]() - **_Shaun Aron_** <br /> 3.[Introduction to Unix]() - **_Sumir Panji_** | 9:00-10:00am EAT<br />10:15-11:00am EAT<br  />11:15-12:30am EAT | Assignments on data file formats and Introduction to Unix |
+| Tuesday | [Advanced Linux, Awk and Sed]() - **_Sumir Panji_** | 9:00-01:00pm EAT | Assignments - Unix, Sed and Awk |
+| Wednesday | [Quality control and assessment]() - **_Shaun Aron_** <br /> [Practical session - QC]() - **_Shaun Aron_** <br /> [Scientific writing]() - **Joy Owango** | 9:00-10:00am EAT <br /> 10:15-12:00pm EAT <br /> 12:15-01:00pm EAT | Assignments - QC |
+| Thursday | [Sequence alignment]() - **_Sonal Henson_** <br /> [Sequence assembly]() - **_James Otieno_** | 9:00-11:15am EAT <br /> 11:30-1:00pm EAT  | Assignments - Sequence alignment and assembly |
+| Friday | [Introduction to Git/GitHub]() - **_Caleb Kibet_** <br /> [Introduction to Galaxy]() - **_Peter van Heusden_** | 9:00-10:00am EAT <br /> 10:15-11:15am EAT | Assignments - Introduction to Galaxy - Genomics |
 
 ### Week 2
 
