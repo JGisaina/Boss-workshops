@@ -27,6 +27,7 @@ We have the following tracks to choose from
  - Phylogeny 
  - RNA-seq 
  - Genome assembly & annotation 
+ - Galaxy workflows
 
 
 ## Speakers profile
