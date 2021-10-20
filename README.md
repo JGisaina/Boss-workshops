@@ -27,7 +27,7 @@ We have the following tracks to choose from
  - Phylogeny 
  - RNA-seq 
  - Genome assembly & annotation 
- - Metagenomics
+
 
 ## Speakers profile
 A short summary of our speakers' profile is available below;
