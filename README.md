@@ -20,7 +20,7 @@ _The workshop runs from November 1st - November 5th 2021. All times are in GMT +
 
 _The workshop runs from November 29th - December 3rd 2021. All times are in GMT +3/UTC +3._
 
-In Week 2 participants will be introduced to a mini project, they will choose a track in which they will be interested as below. Participants will be mentored by experts starting that week, and the analysis will run for more than three months. They will be expected to do a presentation at the end of our BOSS events at our conference.  
+In Week 2, participants will be introduced to a mini project, they will choose a track in which they will be interested as below. Participants will be mentored by experts starting that week, and the analysis will run for more than three months. They will be expected to do a presentation at the end of our BOSS events at our conference.  
 
 We have the following tracks to choose from
  - Variant calling 
