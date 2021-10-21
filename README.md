@@ -1,6 +1,6 @@
-# Boss-workshops
+# Boss Virtual workshops
 
-_Welcome to BOSS Workshops which is part of the series of events in the **"Empowering Researchers with Skills and Tools in Open Science and Bioinformatics"**. This is a two-week training workshop that introduces the trainees to bioinformatics analysis and open science practices. In week 2 they will tackle real biological questions using next-generation sequencing (NGS) data, whilst applying the gained skills from the first week._
+_Welcome to BOSS Virtual Workshops which is part of the series of events in the **"Empowering Researchers with Skills and Tools in Open Science and Bioinformatics"**. This is a two-week training workshop that introduces the trainees to bioinformatics analysis and open science practices. In week 2 they will tackle real biological questions using next-generation sequencing (NGS) data, whilst applying the gained skills from the first week._
 
 
 ## Workshop program
