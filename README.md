@@ -8,7 +8,7 @@ _Welcome to BOSS Virtual Workshops which is part of the series of events in the 
 
 _The workshop runs from November 1st - November 5th 2021. All times are in GMT +3/UTC +3._
 
-| **Day** | **Morning Session** | **Morining Session Time** | **Afternoon Session (1400-1630hrs)** |
+| **Day** | **Morning Session** | **Morning Session Time** | **Afternoon Session (1400-1630hrs)** |
 |:-------:|:---------------------------|:-----------------------------:|:-----------------------------:|
 | Monday | [Intro to sequencing technologies]() - **_Martha Luka_** <br />[Data file formats - Talk]() - **_Shaun Aron_** <br />[Introduction to Unix]() - **_Sumir Panji_** | 9:00-10:00am EAT<br />10:15-11:00am EAT<br  />11:15-12:30am EAT | [Introduction to high-performance computing (HPC)]() - **_Bernice Waweru_** <br /> Assignments on data file formats and Introduction to Unix |
 | Tuesday | [Advanced Linux, Awk and Sed]() - **_Sumir Panji_** | 9:00-01:00pm EAT | Assignments - Unix, Sed and Awk |
@@ -33,17 +33,27 @@ We have the following tracks to choose from
 
 ## Speakers profile
 A short summary of our speakers' profile is available below;
+-**Caleb Kibet**
+- **Martha Luka**: Her research interests lie between human pathogens and their hosts, community spread of disease, the evolution of traits such as virulence and how understanding these factors can inform public health policies and disease mitigation measures. She is currently a Computational Biologist at the MRC-Center for Virus Research, the University of Glasgow, working as part of the AFRICO-19 study. Her research involves understanding epidemiological and viral factors affecting SARS-CoV-2 infection waves by continent and country.  
+She holds a BSc in Clinical Laboratory Science from the University of Nairobi, where she researched the prevalence of pre-cancerous lesions among women screened for cervical cancer in Kenya. Thereafter, she joined the Virus Epidemiology and Control group of the KEMRI-Wellcome Trust Research Programme as a PostGraduate Diploma and subsequently a Masters Fellow. Her primary focus was on rhinoviruses, where she studied their diversity, transmission and temporal dynamics within different social groupings. This combined laboratory method development, descriptive statistics, sequence data analysis and a phylogenetics approach.
 
-- **Caleb Kibet**
-- **Martha Luka**
 - **James Otieno**
 - **Peter van Heusden**
-- **Shaun Aron**
+- **Shaun Aron**: Shaun Aron is currently a bioinformatics consultant and lecturer at the Sydney Brenner Institute for Molecular Bioscience (SBIMB) at the University of the Witwatersrand in Johannesburg, South Africa. After pursuing an undergraduate degree in Genetics and Microbiology followed by an Honours degree in Human Genetics, he handed over the pipettes to the experts and entered the then still developing field of bioinformatics pursuing an MSc degree. Currently, he is a member of the H3Africa Pan African Bioinformatics Network (H3ABioNet), which is a network consisting of 28 research institutes in 18 countries, tasked with developing and supporting informatics and genomics research in Africa. His research interests include GWAS of complex diseases in African populations, exploring population diversity, structure and admixture in Africa and bioinformatics education and training
+
 - **Sonal Henson**
-- **Sumir Panji**
-- **Bernice Waweru**
+- **Sumir Panji**: Sumir Panji obtained his PhD in Bioinformatics from the University of the Western Cape as part of the Stanford South Africa Biomedical Informatics (SSABMI) programme where he developed computational and analyses pipelines to determine the intersection between bacterial virulence and positive selection in Professor Winston Hide’s laboratory. He completed his postdoctoral studies in Professor Alan Christoffels’ laboratory at the South African National Bioinformatics Institute (SANBI) where his focus was on genome assembly, annotation, data mining, large scale statistical analysis of genomics data and development of various computational pipelines and analyses workflows for a myriad of genomics’ data types. Dr Panji’s main interests are in creating and implementing computational and analyses workflows, statistical analysis of biomedical data, biological algorithms, high-performance computing and the overall application of bioinformatics and genomics methods to better understand complex biological systems. Dr Panji is currently a bioinformaticist within the H3ABioNet consortium (www.h3abionet.org) who is interested in genome science, data analysis workflows, statistical analyses of large ‘omics datasets, implementation and interpretation of bioinformatics solutions to diverse biological problems and providing bioinformatics support to the H3Africa projects and is passionate about developing bioinformatics capacity on the African continent.
+
+- **Bernice Waweru**: She is passionate about utilizing bioinformatics to uncover and understand relevant insights from genomics data particularly for crop improvement, and further, develop pipelines to assist scientists to utilize various tools to support efficient and transparent decision making.
+- **Joy Owango**:Joy Owango is an experienced award-winning founding director with a demonstrated history of supporting early-career researchers. She is skilled in management, business strategy and research metrics and in matters relating to research capacity, higher education, research analytics, donor and government relations.
 
 ## Registration
 To register for the events kindly fill this [google form](https://forms.gle/TKu5AgBUJj98LWXi7).
+
+## Pre workshop survey
+You can find the pre workshop survey here [google form](https://docs.google.com/forms/d/16GOfHC80vxuTSup5QowGGiSkPjzpIgqeJIHZW5V9t-k/edit)
+
+## Post workshop survey
+you can find the post workshop survey [google form](https://docs.google.com/forms/d/1ap1AxM3-ZTknfbkJ7HofyQDFDVKOPfliI_doHnTqqco/edit)
 
 **_Limited number of slots, first come first serve!!!_**
