@@ -51,9 +51,9 @@ She holds a BSc in Clinical Laboratory Science from the University of Nairobi, w
 To register for the events kindly fill this [google form](https://forms.gle/TKu5AgBUJj98LWXi7).
 
 ## Pre workshop survey
-You can find the pre workshop survey here [google form](https://docs.google.com/forms/d/16GOfHC80vxuTSup5QowGGiSkPjzpIgqeJIHZW5V9t-k/edit)
+You can find the pre workshop survey here [google form](https://forms.gle/LgWuvnihQGgzArjh6)
 
 ## Post workshop survey
-you can find the post workshop survey [google form](https://docs.google.com/forms/d/1ap1AxM3-ZTknfbkJ7HofyQDFDVKOPfliI_doHnTqqco/edit)
+you can find the post workshop survey [google form](https://forms.gle/QDG9yc6pYx8jtEEY6)
 
 **_Limited number of slots, first come first serve!!!_**
